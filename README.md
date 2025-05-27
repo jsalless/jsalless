@@ -31,7 +31,7 @@
 
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="computerGif" alt="Imagem">
+  <img align="center" src="computerGit.gif" alt="Imagem">
 </p>
 
 ## 👨‍💻 Tech Stack
