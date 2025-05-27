@@ -27,7 +27,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/johnn-salles-00287a221/])
 
 <!-- GithubStats -->
-![Johnn Salles GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=gotham)
+![Johnn Salles GitHub stats](https://github-readme-stats.vercel.app/api?username=jsalless&show_icons=true&theme=gotham)
 
 <!-- Portfolio -->
 ## Portfolio:
