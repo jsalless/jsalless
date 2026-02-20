@@ -45,7 +45,7 @@
 
 ## 🌐 Portfolio
 <p align="center">
-  <a href="https://portfolio-jsalles-projects.vercel.app/">
+  <a href="[https://portfolio-jsalles-projects.vercel.app/](https://portfolio-eight-lake-3g0k0vn8md.vercel.app/terminal)">
     Johnn Salles Portfolio
   </a>
 </p>
